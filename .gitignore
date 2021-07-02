@@ -1,0 +1,11 @@
+# Cpp
+*.o
+
+# System File
+.DS_Store
+
+# IDE
+settings.json
+
+# test
+*Test
