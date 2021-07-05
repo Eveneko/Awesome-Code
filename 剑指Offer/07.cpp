@@ -1,12 +1,20 @@
 /**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
+ * 07. 重建二叉树
+ * https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/
  */
+
+#include<vector>
+#include<unordered_map>
+#include<stack>
+using namespace std;
+
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+};
+
 class Solution {
 public:
     unordered_map<int, int> indexmap;

@@ -11,4 +11,5 @@ Online Judge Problems‘ AC Code
 ## 剑指Offer
 [07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/07.cpp) |
 [10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/10_1.cpp) |
-[10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/10_2.cpp) 
+[10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/10_2.cpp) |
+[11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/11.cpp) 
