@@ -17,3 +17,4 @@ Online Judge Problems‘ AC Code
 - [13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/13.cpp)
 - [14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/14_1.cpp)
 - [14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/14_2.cpp)
+- [15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/15.cpp)
