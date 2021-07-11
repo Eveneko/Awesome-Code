@@ -18,3 +18,5 @@ Online Judge Problems‘ AC Code
 - [14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/14_1.cpp)
 - [14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/14_2.cpp)
 - [15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/15.cpp)
+- [16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/16.cpp)
+- [17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/17.cpp)
