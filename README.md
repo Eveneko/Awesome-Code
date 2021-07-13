@@ -20,4 +20,5 @@ Online Judge Problems‘ AC Code
 - [15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/15.cpp)
 - [16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/16.cpp)
 - [17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/17.cpp)
+- [18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/18.cpp)
 - [19. 正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/19.cpp)
