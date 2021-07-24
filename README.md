@@ -31,3 +31,4 @@ Online Judge Problems‘ AC Code
 - [27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/27.cpp)
 - [28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/28.cpp)
 - [29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/29.cpp)
+- [30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/30.cpp)
