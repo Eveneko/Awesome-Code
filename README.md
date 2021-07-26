@@ -33,3 +33,6 @@ Online Judge Problems‘ AC Code
 - [29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/29.cpp)
 - [30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/30.cpp)
 - [31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/31.cpp)
+- [32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-i-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/32_1.cpp)
+- [32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/32_2.cpp)
+- [32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/32_3.cpp)
