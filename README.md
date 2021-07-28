@@ -37,3 +37,4 @@ Online Judge Problems‘ AC Code
 - [32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/32_2.cpp)
 - [32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/32_3.cpp)
 - [33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/33.cpp)
+- [34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/34.cpp)
