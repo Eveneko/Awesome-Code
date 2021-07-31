@@ -40,3 +40,4 @@ Online Judge Problems‘ AC Code
 - [34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/34.cpp)
 - [35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/35.cpp)
 - [36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/36.cpp)
+- [37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/37.cpp)
