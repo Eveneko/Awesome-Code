@@ -43,3 +43,4 @@ Online Judge Problems‘ AC Code
 - [37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/37.cpp)
 - [38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/38.cpp)
 - [39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/39.cpp)
+- [40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/40.cpp)
