@@ -46,3 +46,4 @@ Online Judge Problems‘ AC Code
 - [40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/40.cpp)
 - [41. 数据流中的中位数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/41.cpp)
 - [42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/42.cpp)
+- [43. 1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/43.cpp)
