@@ -51,3 +51,4 @@ Online Judge Problems‘ AC Code
 - [44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/44.cpp)
 - [45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/45.cpp)
 - [46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/46.cpp)
+- [47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/47.cpp)
