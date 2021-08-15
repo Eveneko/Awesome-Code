@@ -54,3 +54,4 @@ Online Judge Problems‘ AC Code
 - [47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/47.cpp)
 - [48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/48.cpp)
 - [49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/49.cpp)
+- [50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/50.cpp)
