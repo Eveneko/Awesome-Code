@@ -55,3 +55,4 @@ Online Judge Problems‘ AC Code
 - [48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/48.cpp)
 - [49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/49.cpp)
 - [50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/50.cpp)
+- [51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/51.cpp)
