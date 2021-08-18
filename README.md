@@ -58,3 +58,4 @@ Online Judge Problems‘ AC Code
 - [51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/51.cpp)
 - [52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/submissions/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/52.cpp)
 - [53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/53_1.cpp)
+- [53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/53_2.cpp)
