@@ -65,3 +65,5 @@ Online Judge Problems‘ AC Code
 - [55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/55_2.cpp)
 - [56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/56_1.cpp)
 - [56 - II. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/56_2.cpp)
+- [57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/57.cpp)
+- [57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/57_2.cpp)
