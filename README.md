@@ -69,3 +69,5 @@ Online Judge Problems‘ AC Code
 - [57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/57_2.cpp)
 - [58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/58_1.cpp)
 - [58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/58_2.cpp)
+- [59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/59_1.cpp)
+- [59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/59_2.cpp)
