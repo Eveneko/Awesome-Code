@@ -72,3 +72,4 @@ Online Judge Problems‘ AC Code
 - [59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/59_1.cpp)
 - [59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/59_2.cpp)
 - [60. n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/60.cpp)
+- [61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/61.cpp)
