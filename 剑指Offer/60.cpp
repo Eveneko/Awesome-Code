@@ -3,6 +3,9 @@
  * https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/
  */
 
+#include<vector>
+using namespace std;
+
 class Solution {
 public:
     vector<double> dicesProbability(int n) {
