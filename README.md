@@ -74,3 +74,5 @@ Online Judge Problems‘ AC Code
 - [60. n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/60.cpp)
 - [61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/61.cpp)
 - [62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/62.cpp)
+- [63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/63.cpp)
+- [64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/64.cpp)
