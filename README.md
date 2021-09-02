@@ -76,4 +76,5 @@ Online Judge Problems‘ AC Code
 - [62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/62.cpp)
 - [63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/63.cpp)
 - [64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/64.cpp)
+- [65. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/65.cpp)
 - [66. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/66.cpp)
