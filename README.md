@@ -78,4 +78,5 @@ Online Judge Problems‘ AC Code
 - [64. 求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/64.cpp)
 - [65. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/65.cpp)
 - [66. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/66.cpp)
-- [67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/66.cpp)
+- [67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/67.cpp)
+- [68 - I. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/68.cpp)
