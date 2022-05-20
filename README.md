@@ -9,6 +9,7 @@ Online Judge Problems‘ AC Code
 - [4104](http://bailian.openjudge.cn/practice/4104?lang=en_US): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/OpenJ_Bailian/4104.cpp) 
 
 ## 剑指Offer
+
 - [07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/07.cpp)
 - [09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/09.cpp)
 - [10- I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/10_1.cpp)
@@ -81,3 +82,9 @@ Online Judge Problems‘ AC Code
 - [67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/67.cpp)
 - [68 - I. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/68_1.cpp)
 - [68 - II. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/): [Code](https://github.com/Eveneko/Awesome-Code/blob/master/剑指Offer/68_2.cpp)
+
+## 程序员面试金典
+
+- [面试题 01.01. 判定字符是否唯一](https://leetcode.cn/problems/is-unique-lcci/): [Code](程序员面试金典/01.01.go)
+- [面试题 01.02. 判定是否互为字符重排](https://leetcode.cn/problems/check-permutation-lcci/): [Code](程序员面试金典/01.02.go)
+- [面试题 01.03. URL化](https://leetcode.cn/problems/string-to-url-lcci/): [Code](程序员面试金典/01.03.go)
