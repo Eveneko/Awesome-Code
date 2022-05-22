@@ -89,3 +89,4 @@ Online Judge Problems‘ AC Code
 - [面试题 01.02. 判定是否互为字符重排](https://leetcode.cn/problems/check-permutation-lcci/): [Code](程序员面试金典/01.02.go)
 - [面试题 01.03. URL化](https://leetcode.cn/problems/string-to-url-lcci/): [Code](程序员面试金典/01.03.go)
 - [面试题 01.04. 回文排列](https://leetcode.cn/problems/palindrome-permutation-lcci/): [Code](程序员面试金典/01.04.go)
+- [面试题 01.05. 一次编辑](https://leetcode.cn/problems/one-away-lcci/): [Code](程序员面试金典/01.05.go)
