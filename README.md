@@ -92,4 +92,5 @@ Online Judge Problems‘ AC Code
 - [面试题 01.05. 一次编辑](https://leetcode.cn/problems/one-away-lcci/): [Code](程序员面试金典/01.05.go)
 - [面试题 01.06. 字符串压缩](https://leetcode.cn/problems/compress-string-lcci/): [Code](程序员面试金典/01.06.go)
 - [面试题 01.07. 旋转矩阵](https://leetcode.cn/problems/rotate-matrix-lcci/): [Code](程序员面试金典/01.07.go)
+- [面试题 01.08. 零矩阵](https://leetcode.cn/problems/zero-matrix-lcci/): [Code](程序员面试金典/01.08.go)
 
