@@ -94,3 +94,8 @@ Online Judge Problems‘ AC Code
 - [面试题 01.07. 旋转矩阵](https://leetcode.cn/problems/rotate-matrix-lcci/): [Code](程序员面试金典/01.07.go)
 - [面试题 01.08. 零矩阵](https://leetcode.cn/problems/zero-matrix-lcci/): [Code](程序员面试金典/01.08.go)
 - [面试题 01.09. 字符串轮转](https://leetcode.cn/problems/string-rotation-lcci/): [Code](程序员面试金典/01.09.go)
+- [面试题 02.01. 移除重复节点](https://leetcode.cn/problems/remove-duplicate-node-lcci/): [Code](程序员面试金典/02.01.go)
+- [面试题 02.02. 返回倒数第 k 个节点](https://leetcode.cn/problems/kth-node-from-end-of-list-lcci/): [Code](程序员面试金典/02.02.go)
+- [面试题 02.03. 删除中间节点](https://leetcode.cn/problems/delete-middle-node-lcci/): [Code](程序员面试金典/02.03.go)
+- [面试题 02.04. 分割链表](https://leetcode.cn/problems/partition-list-lcci/): [Code](程序员面试金典/02.04.go)
+- [面试题 02.05. 链表求和](https://leetcode.cn/problems/sum-lists-lcci/): [Code](程序员面试金典/02.05.go)
