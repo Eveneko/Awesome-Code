@@ -100,3 +100,4 @@ Online Judge Problems‘ AC Code
 - [面试题 02.04. 分割链表](https://leetcode.cn/problems/partition-list-lcci/): [Code](程序员面试金典/02.04.go)
 - [面试题 02.05. 链表求和](https://leetcode.cn/problems/sum-lists-lcci/): [Code](程序员面试金典/02.05.go)
 - [面试题 02.06. 回文链表](https://leetcode.cn/problems/palindrome-linked-list-lcci/): [Code](程序员面试金典/02.06.go)
+- [面试题 02.07. 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/): [Code](程序员面试金典/02.07.go)
